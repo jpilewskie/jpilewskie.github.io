@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jpilewskie.github.io/sitemap.xml
+Sitemap: https://jpilewskie.github.io/jpilewskie/jpilewskie.github.io//sitemap.xml
