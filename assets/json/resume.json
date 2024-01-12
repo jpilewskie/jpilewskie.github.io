@@ -9,7 +9,7 @@
     "summary": "I am interested in understanding the impact that clouds and deep convection have on the Earth's climate",
     "location": {
       "address": "2880 Broadway",
-      "postalCode": "10025",
+      "postalCode": "NY 10025",
       "city": "New York",
       "countryCode": "US",
       "region": "New York"
@@ -26,26 +26,35 @@
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, Wisconsin",
+      "url": "",
       "area": "Atmospheric and Oceanic Sciences",
       "studyType": "Ph.D",
       "startDate": "2020",
       "endDate": "2023",
+      "score": "",
+      "courses": [""]
     },
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, Wisconsin",
+      "url": "",
       "area": "Atmospheric and Oceanic Sciences",
       "studyType": "M.S.",
       "startDate": "2017",
       "endDate": "2019",
+      "score": "",
+      "courses": [""]
     },
     {
       "institution": "University of Colorado-Boulder",
       "location": "Boulder, Colorado",
+      "url": "",
       "area": "Physics",
       "studyType": "B.A.",
       "startDate": "2013",
       "endDate": "2017",
+      "score": "",
+      "courses": [""]
     }
   ],
      "work": [
@@ -97,24 +106,28 @@
       "title": "Wahl Award for Outstanding Teaching Assistant",
       "date": "2022",
       "awarder": "AOS, University of Wisconsin-Madison",
+      "url": "",
       "summary": ""
     },
     {
       "title": "Future Investigators in NASA Earth and Space Science (FINESST) Fellow",
       "date": "2020",
       "awarder": "NASA Science Mission Directorate",
+       "url": "",
       "summary": ""
     },
     {
       "title": "2nd Place Student Oral Presentation",
       "date": "2019",
       "awarder": "2019 Joint Satellite Conference",
+       "url": "",
       "summary": ""
     },
     {
       "title": "Student Service Award",
       "date": "2019",
       "awarder": "AOS, University of Wisconsin-Madison",
+       "url": "",
       "summary": ""
     }
   ],
@@ -124,28 +137,32 @@
       "authors": "Pilewskie, J.A., G. Stephens, H. Takahashi, and T.S. L’Ecuyer",
       "publisher": "Survey in Geophysics",
       "releaseDate": "Submitted",
-      "url": ""
+      "url": "",
+      "summary": "" 
     },
     {
       "name": "Tropical deep convection, cloud feedbacks and climate sensitivity",
       "authors": "Stephens, G., K.A. Shiro, M.Z. Hakuba, H. Takahashi, J. Pilewskie, T. Andrews, C.J. Stubenrauch, and L. Wu",
       "publisher": "Survey in Geophysics",
       "releaseDate": "Accepted",
-      "url": ""
+      "url": "",
+      "summary": "" 
     },
     {
       "name": "The global nature of early-afternoon and late- night convection through the eyes of the A-Train",
       "authors": "Pilewskie, J.A. and T.S. L’Ecuyer",
       "publisher": "Journal of Geophysical Research: Atmospheres",
       "releaseDate": "06-20-2022",
-      "url": "https://doi.org/10.1029/2022JD036438"
+      "url": "https://doi.org/10.1029/2022JD036438",
+      "summary": "" 
     },
     {
       "name": "Plasma Potential in the Sheaths of Electron-Emitting Surfaces in Space",
       "authors": "Wang, X., J. Pilewskie, H. Hsu, and M. Horanyi",
       "publisher": "Geophysical Research Letters",
       "releaseDate": "01-05-2016",
-      "url": "https://doi.org/10.1002/2015GL067175"
+      "url": "https://doi.org/10.1002/2015GL067175",
+      "summary": "" 
     }
   ],
   "skills": [
