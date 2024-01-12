@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Research Scientist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Center for Climate Systems Research</p>
+    <p>2880 Broadway</p>
+    <p>New York NY 10025, USA</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
