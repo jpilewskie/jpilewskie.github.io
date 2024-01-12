@@ -205,7 +205,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - blog
   - bin
   - Gemfile
   - Gemfile.lock
@@ -274,8 +273,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pilewskie]
+  first_name: [Juliet, A.]
 
   style: apa
   locale: en
