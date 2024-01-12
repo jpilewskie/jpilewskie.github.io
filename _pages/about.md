@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Scientist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Center for Climate Systems Research</p>
