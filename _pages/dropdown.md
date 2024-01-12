@@ -3,7 +3,7 @@ layout: page
 title: submenus
 nav: true
 nav_order: 8
-dropdown: false
+dropdown: true
 children:
   - title: publications
     permalink: /publications/
@@ -13,4 +13,5 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+exclude: true
 ---
