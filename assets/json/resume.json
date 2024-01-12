@@ -112,13 +112,15 @@
       "name": "A multi- satellite perspective on ‘hot tower’ characteristics in the equatorial trough zone",
       "authors": "Pilewskie, J.A., G. Stephens, H. Takahashi, and T.S. L’Ecuyer",
       "publisher": "Survey in Geophysics",
-      "releaseDate": "Submitted"
+      "releaseDate": "Submitted",
+      "url": ""
     },
     {
       "name": "Tropical deep convection, cloud feedbacks and climate sensitivity",
       "authors": "Stephens, G., K.A. Shiro, M.Z. Hakuba, H. Takahashi, J. Pilewskie, T. Andrews, C.J. Stubenrauch, and L. Wu",
       "publisher": "Survey in Geophysics",
-      "releaseDate": "Accepted"
+      "releaseDate": "Accepted",
+      "url": ""
     },
     {
       "name": "The global nature of early-afternoon and late- night convection through the eyes of the A-Train",
@@ -171,13 +173,13 @@
   ],
    "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ] 
 }
