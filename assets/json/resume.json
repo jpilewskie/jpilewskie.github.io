@@ -13,7 +13,14 @@
       "city": "New York",
       "countryCode": "US",
       "region": "New York"
-    }
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
   },
   "education": [
     {
