@@ -13,14 +13,10 @@ profile:
     <p>2880 Broadway</p>
     <p>New York NY 10025, USA</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a postdoctoral research scientist at the Center for Climate Systems Research at Columbia University (New York, NY). My current work uses CloudSat/CALIPSO and CERES satellite observations to analyze mid- and high cloud feedbacks to better constrain climate model output. I received an M.S. (2019) and PhD (2023) from the Department of Atmospheric and Oceanic Sciences at the University of Wisconsin-Madison. During my graduate studies, I analyzed convective storm system properties to understand their present-day contributions to the Earth’s energy budget and water cycle using twice-daily measurements from the A-Train satellite constellation to capture cloud, precipitation, and radiative effects of convective storm systems on a cloud object scale. These observations were supplemented with geostationary satellite observations and reanalyses to provide horizontal and temporal context to the storm features in differing environments. I hold a B.A. (2017) in physics from the University of Colorado-Boulder.
