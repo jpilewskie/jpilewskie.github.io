@@ -13,7 +13,8 @@
       "city": "New York",
       "countryCode": "US",
       "region": "New York"
-    },
+    }
+  },
   "education": [
     {
       "institution": "University of Wisconsin-Madison",
