@@ -58,32 +58,34 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: A-Train Convective Object Database
+      year: 2020-now
+      description: A dataset of convective storm features (e.g., convective core intensity, anvil thickness, precipitation amount, radiative characteristics, and environmental conditions) that are captured on a cloud object scale.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Wahl Award for Outstanding Teaching Assistant, AOS (UW-Madison)
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Future Investigators in NASA Earth and Space Science (FINESST) Fellow, NASA Science Mission Directorate
+    - year: 2019
+      items:
+        - 2nd Place Student Oral Presentation, 2019 Joint Satellite Conference
+        - AOS Department Student Service Award, UW-Madison
 
-- title: Academic Interests
-  type: nested_list
+- title: Professional Service
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: NASA(AOS)-INCUS-GEWEX Cloud Tracking Workshop Co-Organizer, NASA GISS
+      year: 2024
+      description: Co-organizing a workshop focused on evaluating current methods of tracking clouds in observational and modeling data sets. The goal is to develop a comprehensive cloud tracking tool that can be distributed to the scientific community.
+    - title: Earth Observation for Water Cycle Science Conference Session Rapporteur 
+      year: 2020
+    - title: 2019 Joint Satellite Conference Session Co-chair 
+      year: 2019 
 
 - title: Other Interests
   type: list
