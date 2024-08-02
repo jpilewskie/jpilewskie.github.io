@@ -1,93 +1,93 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Juliet Pilewskie
-    - name: Position
-      value: Postdoctoral Research Assistant
-    - name: Email address
-      value: jap2335@columbia.edu
-    - name: Summary
-      value: I am interested in understanding the impact that clouds and deep convection have on the Earth's climate
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Juliet Pilewskie
+#     - name: Position
+#       value: Postdoctoral Research Assistant
+#     - name: Email address
+#       value: jap2335@columbia.edu
+#     - name: Summary
+#       value: I am interested in understanding the impact that clouds and deep convection have on the Earth's climate
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D, Atmospheric and Oceanic Sciences
-      institution: University of Wisconsin, Madison, Wisconsin
-      year: 2020 - 2023
-    - title: M.S., Atmospheric and Oceanic Sciences
-      institution: University of Wisconsin, Madison, Wisconsin
-      year: 2017 - 2019
-    - title: B.A., Physics
-      institution: University of Colorado, Boulder, Colorado
-      year: 2013 - 2017
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: Ph.D, Atmospheric and Oceanic Sciences
+#       institution: University of Wisconsin, Madison, Wisconsin
+#       year: 2020 - 2023
+#     - title: M.S., Atmospheric and Oceanic Sciences
+#       institution: University of Wisconsin, Madison, Wisconsin
+#       year: 2017 - 2019
+#     - title: B.A., Physics
+#       institution: University of Colorado, Boulder, Colorado
+#       year: 2013 - 2017
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Research Scientist
-      institution: Center for the Climate Systems Research, Columbia University / NASA Goddard Institute for Space Studies, New York, NY
-      year: 2024 - Present
-      description: Calculating observed short- and long-term changes in high cloud properties to constrain climate model biases
+# - title: Professional Experience
+#   type: time_table
+#   contents:
+#     - title: Postdoctoral Research Scientist
+#       institution: Center for the Climate Systems Research, Columbia University / NASA Goddard Institute for Space Studies, New York, NY
+#       year: 2024 - Present
+#       description: Calculating observed short- and long-term changes in high cloud properties to constrain climate model biases
         
-    - title: Graduate Student Research Assistant
-      institution: Department of Atmospheric and Oceanic Sciences (AOS), University of Wisconsin, Madison, WI
-      year: 2017 - 2023
-      description:
-        - Developed a database of convective objects generated from A-Train and geostationary satellite observations to analyze cloud structure and radiative effects of convective systems 
-        - Studied how convective systems contribute to Earth’s energy budget and water cycle over their life-cycle in differing large-scale environments
+#     - title: Graduate Student Research Assistant
+#       institution: Department of Atmospheric and Oceanic Sciences (AOS), University of Wisconsin, Madison, WI
+#       year: 2017 - 2023
+#       description:
+#         - Developed a database of convective objects generated from A-Train and geostationary satellite observations to analyze cloud structure and radiative effects of convective systems 
+#         - Studied how convective systems contribute to Earth’s energy budget and water cycle over their life-cycle in differing large-scale environments
         
-    - title: Intern (Remote)
-      institution: Naval Research Enterprise Internship Program, U.S. Naval Research Laboratory - Marine Meteorology Division, Monterey, CA.
-      year: 2021
-      description: Used CAMP2Ex field observations to study how cloud and precipitation features of marine cumulus and altocumulus develop over the tropical West Pacific
+#     - title: Intern (Remote)
+#       institution: Naval Research Enterprise Internship Program, U.S. Naval Research Laboratory - Marine Meteorology Division, Monterey, CA.
+#       year: 2021
+#       description: Used CAMP2Ex field observations to study how cloud and precipitation features of marine cumulus and altocumulus develop over the tropical West Pacific
 
-    - title: Undergraduate Research Assistant
-      institution: Institute for Modeling Plasma, Atmosphere, and Cosmic Dust / Laboratory for Atmospheric and Space Physics
-      year: 2014 - 2017
-      description:
-        - Developed computational simulations to model rings around a minor planet in our solar system called Chariklo
-        - Measured plasma potential to understand lunar surface electric potentials
+#     - title: Undergraduate Research Assistant
+#       institution: Institute for Modeling Plasma, Atmosphere, and Cosmic Dust / Laboratory for Atmospheric and Space Physics
+#       year: 2014 - 2017
+#       description:
+#         - Developed computational simulations to model rings around a minor planet in our solar system called Chariklo
+#         - Measured plasma potential to understand lunar surface electric potentials
 
-    - title: Research Experience for Undergraduates (REU) Student
-      institution: MIT Haystack Observatory, Westford, MA
-      year: 2016
-      description: Studied surface deformations from California groundwater and around Hawaii’s Ki- lauea volcano using merged GPS-InSAR datasets
+#     - title: Research Experience for Undergraduates (REU) Student
+#       institution: MIT Haystack Observatory, Westford, MA
+#       year: 2016
+#       description: Studied surface deformations from California groundwater and around Hawaii’s Ki- lauea volcano using merged GPS-InSAR datasets
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: A-Train Convective Object Database
-      year: 2020-now
-      description: A dataset of convective storm features (e.g., convective core intensity, anvil thickness, precipitation amount, radiative characteristics, and environmental conditions) that are captured on a cloud object scale.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: A-Train Convective Object Database
+#       year: 2020-now
+#       description: A dataset of convective storm features (e.g., convective core intensity, anvil thickness, precipitation amount, radiative characteristics, and environmental conditions) that are captured on a cloud object scale.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Wahl Award for Outstanding Teaching Assistant, AOS (UW-Madison)
-    - year: 2020
-      items:
-        - Future Investigators in NASA Earth and Space Science (FINESST) Fellow, NASA Science Mission Directorate
-    - year: 2019
-      items:
-        - 2nd Place Student Oral Presentation, 2019 Joint Satellite Conference
-        - AOS Department Student Service Award, UW-Madison
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items:
+#         - Wahl Award for Outstanding Teaching Assistant, AOS (UW-Madison)
+#     - year: 2020
+#       items:
+#         - Future Investigators in NASA Earth and Space Science (FINESST) Fellow, NASA Science Mission Directorate
+#     - year: 2019
+#       items:
+#         - 2nd Place Student Oral Presentation, 2019 Joint Satellite Conference
+#         - AOS Department Student Service Award, UW-Madison
 
-- title: Professional Service
-  type: time_table
-  contents:
-    - title: NASA(AOS)-INCUS-GEWEX Cloud Tracking Workshop Co-Organizer, NASA GISS
-      year: 2024
-      description: Co-organizing a workshop focused on evaluating current methods of tracking clouds in observational and modeling data sets. The goal is to develop a comprehensive cloud tracking tool that can be distributed to the scientific community.
-    - title: Earth Observation for Water Cycle Science Conference Session Rapporteur 
-      year: 2020
-    - title: 2019 Joint Satellite Conference Session Co-chair 
-      year: 2019 
+# - title: Professional Service
+#   type: time_table
+#   contents:
+#     - title: NASA(AOS)-INCUS-GEWEX Cloud Tracking Workshop Co-Organizer, NASA GISS
+#       year: 2024
+#       description: Co-organizing a workshop focused on evaluating current methods of tracking clouds in observational and modeling data sets. The goal is to develop a comprehensive cloud tracking tool that can be distributed to the scientific community.
+#     - title: Earth Observation for Water Cycle Science Conference Session Rapporteur 
+#       year: 2020
+#     - title: 2019 Joint Satellite Conference Session Co-chair 
+#       year: 2019 
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
