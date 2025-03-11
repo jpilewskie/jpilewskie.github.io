@@ -7,16 +7,15 @@ first_name: Juliet
 middle_name: A.
 last_name: Pilewskie
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  For any questions or more information on any of my research, please feel free to contact me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: cloud.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jpilewskie.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -50,9 +49,9 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -87,18 +86,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+# blog_name: al-folio # blog_name will be displayed in your blog page
+# blog_description: a simple whitespace theme for academics
+# permalink: /blog/:year/:title/
+# lsi: false # produce an index for related posts
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: false
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: false
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -144,24 +143,24 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: false
+  #   permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
 
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: false
+#   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -202,13 +201,28 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/teaching.md
+  - posts
+   - _pages/cv.md
+   - _data/cv.yml
+   - assets/json/resume.json
+   - pages/news.md
+   - _includes/news.liquid
+   - _includes/latest_posts.liquid
+   - _includes/related_posts.liquid
+   - _layouts/archive-category.liquid
+   - _layouts/archive-tag.liquid
+   - _layouts/archive-year.liquid
+   - _plugins/external-posts.rb
+
 keep_files:
   - CNAME
   - .nojekyll
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  #- jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -275,8 +289,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pilewskie]
+  first_name: [Juliet, A.]
 
   style: apa
   locale: en
@@ -630,20 +644,20 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
