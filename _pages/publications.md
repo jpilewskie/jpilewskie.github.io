@@ -16,7 +16,7 @@ nav_order: 4
 <b>[6]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (In preparation). A new observational
 estimate for a short-term LW high cloud feedback.
 
-<b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (In press). Convective Cloud Top Radiative Cooling Decreases with Increasing Intensity. Journal of Climate.
+<b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (In press). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. Journal of Climate.
 
 <b>[4]</b> <b>Pilewskie, J.A.</b>, G. Stephens, H. Takahashi, and T.S. L’Ecuyer, (2024). A multi-satellite perspective on ‘hot tower’
 characteristics in the equatorial trough zone. Surveys in Geophysics. <a href="https://doi.org/10.1007/s10712-024-09868-2">doi:10.1007/s10712-024-09868-2</a>.
