@@ -14,12 +14,12 @@ nav_order: 4
 <!-- Bibsearch Feature -->
 
 ## 2025
-<b>[9]</b> <b>Pilewskie, J.A.<b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, S.C. van den Heever (In preparation). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions? 
+<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, S.C. van den Heever (In prep). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions? 
 
-<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (In preparation). A new observational
+<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (In prep). A new observational
 estimate for a short-term LW high cloud feedback.
 
-<b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie<b> (Submitted). Observed Sc and Cu cloud variability and their dependency to environmental factors. \textit{Journal of Geophysical Research: Atmospheres}.
+<b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie</b> (Submitted). Observed Sc and Cu cloud variability and their dependency to environmental factors. \textit{Journal of Geophysical Research: Atmospheres}.
 
 <b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and </b>J.A. Pilewskie</b> (Submitted). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. \textit{Frontiers in Remote Sensing}.
 
