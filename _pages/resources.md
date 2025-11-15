@@ -56,4 +56,3 @@ nav_order: 4
   <li>Pilewskie and L'Ecuyer (2025) <a href="https://doi.org/10.5281/zenodo.14796435">data</a> and 
   <a href="https://doi.org/10.5281/zenodo.14796088">code</a></li>
 </ul>
-

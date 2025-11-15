@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Observational Constraints of High Cloud Feedbacks
-description: 
+description:
 permalink: /research/high_cloud_feedbacks
 img: assets/img/high_cloud_feedbacks.png
 importance: 5

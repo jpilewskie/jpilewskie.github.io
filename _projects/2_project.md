@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How Many "Hot Towers" Occur at any Given Time?
-description: 
+description:
 permalink: /research/hot_towers
 img: assets/img/core_frequency.png
 importance: 2

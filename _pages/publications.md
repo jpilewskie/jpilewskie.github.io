@@ -14,7 +14,8 @@ nav_order: 4
 <!-- Bibsearch Feature -->
 
 ## 2025
-<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, S.C. van den Heever (In prep). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions? 
+
+<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, S.C. van den Heever (In prep). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions?
 
 <b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (In prep). A new observational
 estimate for a short-term LW high cloud feedback.
@@ -26,6 +27,7 @@ estimate for a short-term LW high cloud feedback.
 <b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (In press). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. <i>Journal of Climate</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
 
 ## 2024
+
 <b>[4]</b> <b>Pilewskie, J.A.</b>, G. Stephens, H. Takahashi, and T.S. L’Ecuyer, (2024). A multi-satellite perspective on ‘hot tower’
 characteristics in the equatorial trough zone. <i>Surveys in Geophysics</i>. <a href="https://doi.org/10.1007/s10712-024-09868-2">doi:10.1007/s10712-024-09868-2</a>.
 
@@ -33,8 +35,10 @@ characteristics in the equatorial trough zone. <i>Surveys in Geophysics</i>. <a 
 Tropical deep convection, cloud feedbacks and climate sensitivity. <i>Survey in Geophysics</i>, <a href="https://doi.org/10.1007/s10712-024-09831-1">doi:10.1007/s10712-024-09831-1</a>.
 
 ## 2022
+
 <b>[2]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (2022). The global nature of early-afternoon and late-night convection through the
 eyes of the A-Train. <i>Journal of Geophysical Research: Atmospheres</i>, 127, e2022JD036438. <a href="https://doi.org/10.1029/2022JD036438">doi:10.1029/2022JD036438</a>.
 
 ## 2016
+
 <b>[1]</b> Wang, X., <b>J. Pilewskie</b>, H. Hsu, and M. Horányi (2016). Plasma Potential in the Sheaths of Electron-Emitting Surfaces in Space. <i>Geophysical Research Letters</i>, 43, 525–531, <a href="https://doi.org/10.1002/2015GL067175">doi:10.1002/2015GL067175</a>.

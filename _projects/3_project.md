@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Lagrangian Perspective of Convective System Evolution
-description: 
+description:
 permalink: /research/cloud_tracking
 img: assets/img/convective_lifecycle.png
 #redirect: https://unsplash.com
