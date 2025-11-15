@@ -23,4 +23,4 @@ The primary motivation of my research is understanding how clouds are changing w
     Distribution of convective object longwave versus SW cloud radiative effects (LW CRE and SW CRE, respectively) colored by the ratio of thin cloud (COD < 3) to thick cloud (COD > 10) that each object contains
 </div>
 
-Related publication: Pilewskie and L'Ecuyer (In press)
+Related publication: <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">Pilewskie and L'Ecuyer (2025)</a>
