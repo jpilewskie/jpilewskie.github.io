@@ -13,6 +13,9 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+    {% if page.url == "/" %}
+      <meta name="google-site-verification" content="W1_xj9z6PxzEHTg4fGiUODYMdePPq_RM_aCA2ph4reA" />
+    {% endif %}
   </head>
 
   <!-- Body -->
