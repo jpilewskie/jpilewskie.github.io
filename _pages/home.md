@@ -2,7 +2,7 @@
 layout: about
 title: homepage
 permalink: /
-subtitle:  Climate Scientist
+subtitle:  Atmospheric Scientist
 #<a href='#'>Affiliations</a>.
 
 profile:
@@ -21,6 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 As an atmospheric scientist broadly interested in the Earth's climate system, I am eager to contribute to shaping the world towards a more sustainable future. I am passionate about understanding how storm systems are changing with climate change and how those changes may alter future climate scenarios. 
 
-Currently, I work as a postdoctoral research scientist at the <a href="https://ccsr.columbia.edu/">Center for Climate Systems Research (CCSR)</a> at Columbia University joint with <a href="https://www.giss.nasa.gov/">NASA Goddard Institute for Space Studies (GISS)</a>. I have a background in physics and atmospheric science, with over ten years of programming experience and eight years processing and analyzing intensive remote sensing data sets. Furthermore, I have been highly engaged in community building, public outreach initiatives, and volunteering with environmentally-conscious organizations.
+Currently, I work as a postdoctoral research scientist in the <a href="https://www.atmos.colostate.edu/">Department of Atmospheric Science</a> at Colorado State University. I have a background in physics and atmospheric science, with expertise in processing and analyzing intensive remote sensing data sets. Furthermore, I have been highly engaged in community building, public outreach initiatives, and volunteering with in neighborhood organizations.
 
 Here, you can find more information about my research interests, projects, and publications.
