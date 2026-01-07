@@ -13,18 +13,20 @@ nav_order: 4
 
 <!-- Bibsearch Feature -->
 
-## 2025
+## 2026
 
 <b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, S.C. van den Heever (In prep). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions?
 
-<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (In prep). A new observational
-estimate for a short-term LW high cloud feedback.
+## 2025
+
+<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (Submitted). A new observational
+estimate for a short-term LW high cloud feedback. <i>Journal of Geophysical Research: Atmospheres</i>.
 
 <b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie</b> (Submitted). Observed Sc and Cu cloud variability and their dependency to environmental factors. <i>Journal of Geophysical Research: Atmospheres</i>.
 
-<b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and <b>J.A. Pilewskie</b> (Submitted). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. <i>Frontiers in Remote Sensing</i>.
+<b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and <b>J.A. Pilewskie</b> (2025). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. <i>Frontiers in Remote Sensing</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
 
-<b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (In press). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. <i>Journal of Climate</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
+<b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (2025). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. <i>Journal of Climate</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
 
 ## 2024
 
