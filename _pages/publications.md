@@ -24,7 +24,7 @@ estimate for a short-term LW high cloud feedback. <i>Journal of Geophysical Rese
 
 <b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie</b> (Submitted). Observed Sc and Cu cloud variability and their dependency to environmental factors. <i>Journal of Geophysical Research: Atmospheres</i>.
 
-<b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and <b>J.A. Pilewskie</b> (2025). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. <i>Frontiers in Remote Sensing</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
+<b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and <b>J.A. Pilewskie</b> (2025). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. <i>Frontiers in Remote Sensing</i>. <a href="https://doi.org/10.3389/frsen.2025.1691948">doi:10.3389/frsen.2025.1691948</a>.
 
 <b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (2025). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. <i>Journal of Climate</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
 
