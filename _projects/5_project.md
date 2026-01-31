@@ -10,7 +10,7 @@ category: work
 
 ---
 
-High cloud feedbacks are one of the largest sources of climate model spread and uncertainty, and have not been well-constrained by observations. The focus of my postdoc research is to provide an observational constraint for short-term, and ultimately long-term, high cloud feedbacks using satellite observations of top-of-atmosphere radiative fluxes, high cloud properties, and surface temperatures. Such cloud feedbacks are derived by investigating how high cloud properties respond to various changes in local environmental conditions with surface warming over multiple time scales. This work is currently in preparation for publication.
+High cloud feedbacks are one of the largest sources of climate model spread and uncertainty, and have not been well-constrained by observations. The focus of my postdoc research is to provide an observational constraint for short-term, and ultimately long-term, high cloud feedbacks using satellite observations of top-of-atmosphere radiative fluxes, high cloud properties, and surface temperatures. Such cloud feedbacks are derived by investigating how high cloud properties respond to various changes in local environmental conditions with surface warming over multiple time scales. This work was submitted for publication in December 2025.
 
 ---
 
