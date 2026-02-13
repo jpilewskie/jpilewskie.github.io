@@ -19,7 +19,7 @@ nav_order: 4
 
 ## 2025
 
-<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (Submitted). A new observational
+<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (Submitted). A new lidar-based observational
 estimate for a short-term LW high cloud feedback. <i>Journal of Geophysical Research: Atmospheres</i>.
 
 <b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie</b> (Submitted). Observed Sc and Cu cloud variability and their dependency to environmental factors. <i>Journal of Geophysical Research: Atmospheres</i>.
