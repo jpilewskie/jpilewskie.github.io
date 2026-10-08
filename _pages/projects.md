@@ -5,7 +5,7 @@ permalink: /research/
 description: My work broadly focuses on studying clouds and storm systems within the context of their present-day impact on the Earth's climate. Storms are integral to the Earth’s climate system as they influence large-scale weather patterns and heating within the atmosphere, and produce significant amounts of rainfall. As atmospheric CO<sub>2</sub> concentrations are increasing due to human activity, extreme weather events, such as increased droughts and intensifying hurricanes, are becoming more apparent across the globe, as discussed in the Intergovernmental Panel Climate Change (IPCC) Sixth Assessment (AR6) Synthesis Report. The changing extremes have direct effects on food and water security, and other such public health and economic impacts. Climate model projections indicate that storm system behavior is expected to continue altering in response to surface warming. Yet, climate models consistently misrepresent present-day weather extremes and rainfall amounts, and there are large sources of model spread and uncertainties in simulated future climate scenarios. Such errors arise because physical processes underlying weather and climate states are not adequately captured in models. The focus of my work, therefore, is to analyze signatures of these physical processes from satellite observations of cloud, precipitation, and their energetic features. Below outline my specific interests.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [projects]
 horizontal: false
 ---
 
