@@ -15,26 +15,29 @@ nav_order: 4
 
 ## 2026
 
-<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, S.C. van den Heever (In prep). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions?
+<b>[10]</b> Schaaf, M., T.S. L’Ecuyer, <b>J.A. Pilewskie<b>, and R. Dixon (In Preparation). Regional Variations in Precipitation Efficiency
+from a Satellite Perspective. Journal of Geophysical Research: Atmospheres.
+
+<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, and S.C. van den Heever (Accepted). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions?
+
+<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis (2026). A new lidar-based observational
+estimate for a short-term LW high cloud feedback. <i>Journal of Geophysical Research: Atmospheres</i>, 131, e2025JD046222. <a href="https://doi.org/10.1029/2025JD046222">doi:10.1029/2025JD046222</a>.
+
+<b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie</b> (2026). Observed Sc and Cu cloud variability and their dependency to environmental factors. <i>Journal of Geophysical Research: Atmospheres</i>, 131, e2025JD045525. <a href="https://doi.org/10.1029/2025JD045525">doi:10.1029/2025JD045525</a>.
 
 ## 2025
 
-<b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis. (Submitted). A new lidar-based observational
-estimate for a short-term LW high cloud feedback. <i>Journal of Geophysical Research: Atmospheres</i>.
+<b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and <b>J.A. Pilewskie</b> (2025). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. <i>Frontiers in Remote Sensing</i>, 6:1691948. <a href="https://doi.org/10.3389/frsen.2025.1691948">doi:10.3389/frsen.2025.1691948</a>.
 
-<b>[7]</b> Arouf, A., G.V. Cesana, and <b>J. Pilewskie</b> (Submitted). Observed Sc and Cu cloud variability and their dependency to environmental factors. <i>Journal of Geophysical Research: Atmospheres</i>.
-
-<b>[6]</b> Russell, G.L., A. Lacis, B.E. Carlson, W. Su, and <b>J.A. Pilewskie</b> (2025). Global-scale seasonal variability profiles of EPIC-derived vs GISS ModelE-simulated all-cloud and ice-cloud fraction distributions. <i>Frontiers in Remote Sensing</i>. <a href="https://doi.org/10.3389/frsen.2025.1691948">doi:10.3389/frsen.2025.1691948</a>.
-
-<b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (2025). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. <i>Journal of Climate</i>. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
+<b>[5]</b> <b>Pilewskie, J.A.</b> and T.S. L’Ecuyer (2025). The Role of Convective Intensity in Modulating Earth’s Radiative Balance. <i>Journal of Climate</i>, 39, 125–144. <a href="https://doi.org/10.1175/JCLI-D-24-0334.1">doi:10.1175/JCLI-D-24-0334.1</a>.
 
 ## 2024
 
 <b>[4]</b> <b>Pilewskie, J.A.</b>, G. Stephens, H. Takahashi, and T.S. L’Ecuyer, (2024). A multi-satellite perspective on ‘hot tower’
-characteristics in the equatorial trough zone. <i>Surveys in Geophysics</i>. <a href="https://doi.org/10.1007/s10712-024-09868-2">doi:10.1007/s10712-024-09868-2</a>.
+characteristics in the equatorial trough zone. <i>Surveys in Geophysics</i>, 45, 1933–1958. <a href="https://doi.org/10.1007/s10712-024-09868-2">doi:10.1007/s10712-024-09868-2</a>.
 
 <b>[3]</b> Stephens, G., K.A. Shiro, M.Z. Hakuba, H. Takahashi, <b>J. Pilewskie</b>, T. Andrews, C.J. Stubenrauch, and L. Wu (2024).
-Tropical deep convection, cloud feedbacks and climate sensitivity. <i>Survey in Geophysics</i>, <a href="https://doi.org/10.1007/s10712-024-09831-1">doi:10.1007/s10712-024-09831-1</a>.
+Tropical deep convection, cloud feedbacks and climate sensitivity. <i>Survey in Geophysics</i>, 45, 1903–1931. <a href="https://doi.org/10.1007/s10712-024-09831-1">doi:10.1007/s10712-024-09831-1</a>.
 
 ## 2022
 
@@ -43,4 +46,4 @@ eyes of the A-Train. <i>Journal of Geophysical Research: Atmospheres</i>, 127, e
 
 ## 2016
 
-<b>[1]</b> Wang, X., <b>J. Pilewskie</b>, H. Hsu, and M. Horányi (2016). Plasma Potential in the Sheaths of Electron-Emitting Surfaces in Space. <i>Geophysical Research Letters</i>, 43, 525–531, <a href="https://doi.org/10.1002/2015GL067175">doi:10.1002/2015GL067175</a>.
+<b>[1]</b> Wang, X., <b>J. Pilewskie</b>, H. Hsu, and M. Horányi (2016). Plasma Potential in the Sheaths of Electron-Emitting Surfaces in Space. <i>Geophysical Research Letters</i>, 43, 525–531. <a href="https://doi.org/10.1002/2015GL067175">doi:10.1002/2015GL067175</a>.
