@@ -23,4 +23,4 @@ As an atmospheric scientist broadly interested in the Earth's climate system, I 
 
 Currently, I work as a postdoctoral research scientist in the <a href="https://www.atmos.colostate.edu/">Department of Atmospheric Science</a> at Colorado State University. I have a background in physics and atmospheric science, with expertise in processing and analyzing intensive remote sensing data sets. Aside from work, I love getting involved in communities in whichever way I can, whether it be joining a running or biking social group, or volunteering at a local botanical garden. I also enjoy hiking/backpacking/camping, playing instruments and singing, going to concerts, cooking, and crafting.
 
-Here, you can find more information about my research interests, projects, and publications.
+Here, you can find more information about my background, research interests, and publications.
