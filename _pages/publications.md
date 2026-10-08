@@ -18,7 +18,7 @@ nav_order: 4
 <b>[10]</b> Schaaf, M., T.S. L’Ecuyer, <b>J.A. Pilewskie</b>, and R. Dixon (In Preparation). Regional Variations in Precipitation Efficiency
 from a Satellite Perspective. Journal of Geophysical Research: Atmospheres.
 
-<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, and S.C. van den Heever (Accepted). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions?
+<b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, and S.C. van den Heever (Accepted). How do Convective Cloud Properties and Environments Differ between Equatorial Africa and South America?
 
 <b>[8]</b> <b>Pilewskie, J.A.</b>, G. Cesana, A. Arouf, A. Ackerman, and T. Vaillant de Guélis (2026). A new lidar-based observational
 estimate for a short-term LW high cloud feedback. <i>Journal of Geophysical Research: Atmospheres</i>, 131, e2025JD046222. <a href="https://doi.org/10.1029/2025JD046222">doi:10.1029/2025JD046222</a>.
