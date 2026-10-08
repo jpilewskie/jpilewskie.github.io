@@ -15,7 +15,7 @@ nav_order: 4
 
 ## 2026
 
-<b>[10]</b> Schaaf, M., T.S. L’Ecuyer, <b>J.A. Pilewskie<b>, and R. Dixon (In Preparation). Regional Variations in Precipitation Efficiency
+<b>[10]</b> Schaaf, M., T.S. L’Ecuyer, <b>J.A. Pilewskie</b>, and R. Dixon (In Preparation). Regional Variations in Precipitation Efficiency
 from a Satellite Perspective. Journal of Geophysical Research: Atmospheres.
 
 <b>[9]</b> <b>Pilewskie, J.A.</b>, A.J. Drager, B. Pan, B. Dolan, T. L’Ecuyer, and S.C. van den Heever (Accepted). Do Differences in Environmental Characteristics Drive the Difference in Convective Storms over the Amazon and Congo Regions?
