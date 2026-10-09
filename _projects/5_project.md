@@ -22,3 +22,5 @@ High cloud feedbacks are one of the largest sources of climate model spread and 
 <div class="caption">
     Schematic portraying how high cloud behavior might change in a changing climate
 </div>
+
+Related publication: <a href="https://doi.org/10.1029/2025JD046222">Pilewskie et al. (2026)</a>
