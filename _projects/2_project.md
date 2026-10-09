@@ -18,7 +18,7 @@ One application of using the convective object database was understanding how fr
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/core_estimates_diurnalcycle.png" title="example image" class="core_frequency" 
-        style="max-width: 1534px; width: 100%; image-rendering: crisp-edges; image-rendering: -webkit-optimize-contrast;" %}
+        style="max-width: 767px; width: 100%;" %}
     </div>
 </div>
 <div class="caption">
