@@ -17,7 +17,10 @@ One application of using the convective object database was understanding how fr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="max-width: 767px; margin: 0 auto;">
-        {% include figure.liquid loading="eager" path="assets/img/core_estimates_diurnalcycle.png" title="example image" class="core_frequency" %}
+        <img src="{{ 'assets/img/core_estimates_diurnalcycle.png' | relative_url }}" 
+             class="img-fluid" 
+             alt="Core count estimates"
+             style="width: 100%; height: auto;">
     </div>
 </div>
 <div class="caption">
