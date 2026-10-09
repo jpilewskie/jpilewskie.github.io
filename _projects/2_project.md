@@ -5,7 +5,7 @@ description:
 permalink: /research/hot_towers
 img: assets/img/core_frequency.png
 importance: 2
-category: work
+category: projects
 giscus_comments: false
 ---
 

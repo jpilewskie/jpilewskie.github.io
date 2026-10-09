@@ -6,7 +6,7 @@ permalink: /research/cloud_tracking
 img: assets/img/convective_lifecycle.png
 #redirect: https://unsplash.com
 importance: 3
-category: work
+category: projects
 ---
 
 ---

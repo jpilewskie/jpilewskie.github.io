@@ -5,7 +5,7 @@ description:
 permalink: /research/convection_radiation
 img: assets/img/radiation.png
 importance: 4
-category: work
+category: projects
 ---
 
 ---

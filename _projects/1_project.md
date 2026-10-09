@@ -5,7 +5,7 @@ description:
 permalink: /research/co_database
 img: assets/img/co_database_ex.png
 importance: 1
-category: work
+category: projects
 related_publications: false
 ---
 

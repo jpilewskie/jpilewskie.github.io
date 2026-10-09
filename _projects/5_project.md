@@ -5,7 +5,7 @@ description:
 permalink: /research/high_cloud_feedbacks
 img: assets/img/high_cloud_feedbacks.png
 importance: 5
-category: work
+category: projects
 ---
 
 ---
