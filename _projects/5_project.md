@@ -15,7 +15,7 @@ High cloud feedbacks are one of the largest sources of climate model spread and 
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 1152px; margin: 0 auto;>
         {% include figure.liquid loading="eager" path="assets/img/high_cloud_feedbacks.png" title="example image" class="high_cloud_feedbacks" %}
     </div>
 </div>

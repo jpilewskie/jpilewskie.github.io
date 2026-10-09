@@ -16,7 +16,7 @@ Understanding the physical processes behind how clouds, precipitation, and the e
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 635px; margin: 0 auto;>
         {% include figure.liquid loading="eager" path="assets/img/convective_lifecycle.png" title="example image" class="convective_lifecycle" %}
     </div>
 </div>

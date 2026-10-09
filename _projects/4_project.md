@@ -15,7 +15,7 @@ The primary motivation of my research is understanding how clouds are changing w
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 613px; margin: 0 auto;>
         {% include figure.liquid loading="eager" path="assets/img/radiation.png" title="example image" class="radiation" %}
     </div>
 </div>
